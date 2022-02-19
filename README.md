@@ -6,8 +6,6 @@
 
 ### Installation
 
-#### Cloud Host
-- Tutorial uploaded in YouTube, watch it by clicking [here][youtube_tutorial].
 
 #### Local Host - Windows
 - Install [Python 3.9][python_link]
@@ -42,32 +40,11 @@ A Bot which messages everyone in a Discord Server, if the member has DM's off or
 
 #### Note : The ***more is the delay***, ***the less is the chance of your bot getting rate limited*** **(5msgs - 5s is the rate limit for messages)**.
 
-### Support
-
-Having issues with the bot lately? Join the [Discord Server][discord] where we can help figure out your issue. If you have a major bug to report, it would be great if you can an [issue here](https://github.com/invader1234/discord-dm-1.7.2/issues).
-
-
-
-### Screenshots
-
-<div align="center"><img src="assets/haha.png"></div>
 
 
 ### Contact me:
-[<img align="left" alt="Invader" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Invader | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Invader | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+Null#0004
 
-</br>
-
-
-
-### Latest YouTube Videos
-
-- [\[DISCORD\] Login To A Bot's Account](https://www.youtube.com/watch?v=Z-S5SvgbmrM)
-- [Fun & Anti Raid Bot | DBM Series E2](https://youtu.be/Cqaxt5GTfuo)
-- [Welcome + Leave Message Bot | DBM SERIES E1](https://youtu.be/gS8Ncj0A-jA)
-- [more videos...](https://youtube.com/invader6)
 
 
 ### Disclaimer
@@ -75,10 +52,3 @@ Having issues with the bot lately? Join the [Discord Server][discord] where we c
 
 
 Made with Python!
-
-
-[website]: https://sites.google.com/view/invaderop/home
-[discord]: https://discord.gg/XxBv46EtHM
-[youtube]: https://www.youtube.com/channel/UCDUN4_DWVoYx-ZupD9rhlmw
-[youtube_tutorial]: https://youtu.be/Sogd23Uibd0
-[python_link]: https://www.python.org/downloads/release/python-395/
