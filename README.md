@@ -43,7 +43,7 @@ A Bot which messages everyone in a Discord Server, if the member has DM's off or
 
 
 ### Contact me:
-Null#0004
+cengizhan#8071
 
 
 
