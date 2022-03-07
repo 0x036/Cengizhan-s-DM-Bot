@@ -1,15 +1,11 @@
 """ * * * * * * * * * * * * * * *
 *                               *
 *     discord.py Rewrite DM     *
-*        Author: HPRIYAM        *
-*        HPRIYAM OP             *
+*        Author: Cengizhan      *
+*                               *
 *                               *
 * * * * * * * * * * * * * * * """
 
-# Ik most of you guys will just remove the credits stuff. Well, you're free to do so, idec anymore xd.
-# If anyone gets any error or anything unusual, join the discord server or add me IПVΛDΣЯ#1195, we'll figure it out.
-# Enjoy <3
-# -invader
 
 # Modules
 import discord
